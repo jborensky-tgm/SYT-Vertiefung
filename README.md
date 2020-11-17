@@ -10,6 +10,18 @@ In this document, I would like to discuss the fundamental techniques as well as 
 
 Data Analysis is and will get much more important in the future. In 2007 it was assumed that the total quantity of data that was produced until then was about five exabytes ($5 \cdot 10^{18} bytes$) . At that point of time it was more than the estimated number of words spoken by humans. [1]
 
+Because there are some open-source-software-solutions for nearly everything, there is also a solution for data analysis: the R programming language. 
+
+> Basically there are three motivations for analyzing data:
+>
+> * to understand what has happened or what is happening;
+> 2.	to predict what is likely to happen, either in the future or in other circumstances we haven’t seen yet;
+> 3.	to guide us in making decisions.
+
+[1]
+
+In order to analyze our data/the data of our company or something else, we have to begin with the simple sounding first step: understanding our data. And there it is necessary to use exploratory data analysis on every dataset we want to analyze in the future in order to understand it and make decision regarding certain predictions models for example. 
+
 
 
 ## Milestones 
