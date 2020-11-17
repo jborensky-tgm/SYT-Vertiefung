@@ -22,6 +22,8 @@ Because there are some open-source-software-solutions for nearly everything, the
 
 In order to analyze our data/the data of our company or something else, we have to begin with the simple sounding first step: understanding our data. And there it is necessary to use exploratory data analysis on every dataset we want to analyze in the future in order to understand it and make decision regarding certain predictions models for example. 
 
+When it comes to the size of data performance and speed is an important factor because the first step - loading the data - will take a lot of time if you use a slow implementation with a big data set. 
+
 
 
 ## Milestones 
