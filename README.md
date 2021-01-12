@@ -28,12 +28,12 @@ When it comes to the size of data performance and speed is an important factor b
 
 ## Milestones 
 
-| milestone                                                    | date       |
-| ------------------------------------------------------------ | ---------- |
-| Introduction and Sources complete                            | 17.11.2020 |
-| theoretical explanations complete                            | 01.12.2020 |
-| simple practical example complete                            | 08.12.2020 |
-| two more extensive examples and the comparsion of the complete | 22.12.2020 |
+| milestone                                                    | date                      |
+| ------------------------------------------------------------ | ------------------------- |
+| Introduction and Sources complete                            | 17.11.2020                |
+| theoretical explanations complete                            | ~~01.12.2020~~ 12.01.2021 |
+| simple practical example complete                            | ~~08.12.2020~~ 12.01.2021 |
+| two more extensive examples and the comparsion of the complete | ~~22.12.2020~~ 23.02.2021 |
 
  
 
